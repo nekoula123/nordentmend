@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://nordentmed.ru/sitemap.xml
+Host: https://nordentmed.ru/
